@@ -37,7 +37,7 @@ SHOPEZ/ client/ → Frontend (React) server/ → Backend (Node + Express) README
 
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/Annapurneswaraiah/ShopEZ
+git clone https://github.com/rpunithareddy/shopez
 
 2️⃣ Install Dependencies
 Frontend
