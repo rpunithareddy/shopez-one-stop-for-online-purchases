@@ -1,6 +1,5 @@
 # Shopez-one-stop-for-online-purchases
-ShopEZ is a full-stack e-commerce web application developed as part of the SmartInternz Internship Program. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), it provides users with a seamless shopping experience and allows admins to manage products, users, and orders efficiently.
-README
+
 🛍️ ShopEZ – One-Stop Shop for Online Purchases
 ShopEZ is a full-stack e-commerce web application developed as part of the SmartInternz Internship Program.
 Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), it provides users with a seamless shopping experience and allows admins to manage products, users, and orders efficiently.
